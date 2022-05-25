@@ -1,9 +1,4 @@
 # Exercise push Pull
 
-Quan
-31
-deutsch
-
-lion	
-29
-deutsch
+Aufgaben erfolgreich: push und pull, neue Repository und Ordner erstellt
+2 branches erstellt und bearbeitet, locally und remote geändert und gelöscht.
